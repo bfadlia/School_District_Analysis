@@ -17,4 +17,6 @@ PyCity school district suspected Thomas High School's 9th grade Reading and Math
 ### How is the district summary affected?
 Original Analysis:
 	
-
+  - ![IMAGE_DESCRIPTION](/Resources/THS-Original.png)
+  - ![IMAGE_DESCRIPTION](/Resources/THS-new.png)
+  - ![IMAGE_DESCRIPTION](/Resources/THS-adjusted.png)
