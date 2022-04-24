@@ -28,7 +28,7 @@ Original Analysis:
   - ![IMAGE_DESCRIPTION](/Resources/THS-adjusted.png)
 
 
-- The overall score for the district saw very slight change since Thomas High school few hundred 9th grade students are not significant compared the the 44K students the district has overall
+- The overall score for the district saw very slight change since Thomas High school few hundred 9th grade students are not significant compared the the 39K students the district has overall
 
   - The originall district overall numbers looked like this
   - ![IMAGE_DESCRIPTION](/Resources/overall-original.png)
