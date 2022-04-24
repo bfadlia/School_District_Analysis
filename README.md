@@ -16,8 +16,14 @@ PyCity school district suspected Thomas High School's 9th grade Reading and Math
 
 ### How is the district summary affected?
 Original Analysis:
-	
+-I main difference after replacing Thomas High school 9th grade math and reading results with NaN has been a big drop in their passing rate, dropping from the 90's t0 mid 60s
+
+- The original rate for Thomas High School
   - ![IMAGE_DESCRIPTION](/Resources/THS-Original.png)
+  
+  Their score after replacing the 9th grade scores with Nan
   - ![IMAGE_DESCRIPTION](/Resources/THS-new.png)
+
+- However, when totally disregarding their 9th grade and calculating their rates bases only on their 10th thru 12th grades, the rates come back up to similar high levels like they had originally
   - ![IMAGE_DESCRIPTION](/Resources/THS-adjusted.png)
 
