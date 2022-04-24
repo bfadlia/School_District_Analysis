@@ -41,8 +41,11 @@ Original Analysis:
 - There is hardly any noticable change across any of these categories since Thomas high school 9th graders are in the hundreds and not significant compared to the district 39k students. The non significant difference is usually only seen in the hundredth of a percintile and only in the bucket where Thomas high school is categorized.
 
   - Math and reading by grade only has the difference of Thomas High School 9th grade having Nan instead of their numbers. All other grades and schools are not any different
-  - Scores by school spending only the $630-$644 range which Thomas High school falls in sees its scores 
+  - Scores by school spending only the $630-$644 range which Thomas High school falls in sees its scores have a tiny change
      - ![IMAGE_DESCRIPTION](/Resources/spending.png)
+
+  - Scores by school size only the medium size category which Thomas High school falls in sees its scores have a tiny change
+     - ![IMAGE_DESCRIPTION](/Resources/size.png)
 
 
 
